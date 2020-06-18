@@ -12,6 +12,12 @@ tasks:
     type: basic
     submit: "Submit feedback form."
     graded-as: false
-  - type: blank
-  - type: blank
+  - type: attend-labs
+  - title: "Preview Web Design 2"
+    submit: "See you next term!"
+    type: basic
+    card_class: "card-subtle"
+    button: materials
+    url: "/courses/web-design-2/"
+    graded-as: false
 ---
