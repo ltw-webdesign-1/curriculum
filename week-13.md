@@ -1,6 +1,6 @@
 ---
 topic: "Intrinsic layouts"
-desc: "Get experience applying CSS to HTML semantics while laying out different documents & different screen sizes."
+desc: "Practice applying CSS to HTML semantics to lay out different documents & different screen sizes."
 clr: "3"
 
 video_tutorials:

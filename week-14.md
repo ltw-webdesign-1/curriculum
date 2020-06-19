@@ -1,6 +1,6 @@
 ---
 topic: "Accessibility of full designs"
-desc: "Return to accessibility and see how CSS affects people’s understanding of pages—and what we can do to help."
+desc: "Return to accessibility and see how CSS affects people’s understanding of pages—and how we can help."
 clr: "3"
 
 video_tutorials:

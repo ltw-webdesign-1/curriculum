@@ -12,11 +12,10 @@ video_tutorials:
   - title: "Keyboard shortcut cheat sheet"
     url: keyboard-shortcut-cheat-sheet
     highlight: true
+  - title: "Web browsers"
+    url: web-browsers
   - title: "Code editors"
     url: code-editors
-  - title: "Snippets cheat sheet"
-    url: snippets-cheat-sheet
-    highlight: true
   - title: "Code character cheat sheet"
     url: code-character-cheat-sheet
 

@@ -11,8 +11,6 @@ video_tutorials:
   - title: "Using URLs"
     url: using-urls
     videos: true
-  - title: "Web browsers"
-    url: web-browsers
   - title: "Naming conventions"
     url: naming-conventions
     highlight: true
@@ -21,9 +19,6 @@ video_tutorials:
     highlight: true
   - title: "Code editors"
     url: code-editors
-  - title: "Snippets cheat sheet"
-    url: snippets-cheat-sheet
-    highlight: true
   - title: "Code character cheat sheet"
     url: code-character-cheat-sheet
 
