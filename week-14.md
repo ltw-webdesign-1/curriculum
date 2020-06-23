@@ -23,8 +23,8 @@ slides:
     url: design-plus-accessibility
 
 tasks:
-  - title: "Accessibility Adapter"
-    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-adapter/"
+  - title: "Accessibility Atomizer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
     type: activity
   - title: "Universal design"
     # How to test for colour blindness, broken images, missing background colours

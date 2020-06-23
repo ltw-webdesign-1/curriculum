@@ -7,11 +7,11 @@ video_tutorials:
   - title: "Everything is a box"
     url: box-model
     videos: true
-  - title: "Layouts with CSS Grid"
-    url: layouts-with-css-grid
+  - title: "CSS grids"
+    url: css-grids
     videos: true
     disabled: true
-  - title: "CSS Grid cheat sheet"
+  - title: "CSS grid cheat sheet"
     url: css-grid-cheat-sheet
     highlight: true
     disabled: true
