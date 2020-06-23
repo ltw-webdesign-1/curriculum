@@ -32,9 +32,9 @@ tasks:
     submit: code
   - title: "Content semantics"
     # Using the beets website, give students a lengend of all the tags & get them to write it out
-    url: "https://github.com/acgd-webdev-1/content-semantics"
+    url: "https://github.com/acgd-webdesign-1/content-semantics"
   - title: "Masthead semantics"
-    url: "https://github.com/acgd-webdev-1/masthead-semantics"
+    url: "https://github.com/acgd-webdesign-1/masthead-semantics"
   - type: attend-labs
   - type: watch-videos
 ---

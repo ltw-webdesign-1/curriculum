@@ -34,7 +34,7 @@ group_activities:
 tasks:
   - type: blank
   - title: "HTML validation fixes"
-    url: "https://github.com/acgd-webdev-1/html-validation-fixes"
+    url: "https://github.com/acgd-webdesign-1/html-validation-fixes"
   - title: "Accessible content for all"
     # Make content more accessible, given HTML content: aria-label, describedby, semantics, etc.
     url: "https://github.com/acgd-webdesign-1/accessible-content-for-all"

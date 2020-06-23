@@ -28,9 +28,9 @@ tasks:
     type: lesson
     submit: code
   - title: "Use all the selectors!"
-    url: "https://github.com/acgd-webdev-1/use-all-the-selectors"
+    url: "https://github.com/acgd-webdesign-1/use-all-the-selectors"
   - title: "CSS validation fixes"
-    url: "https://github.com/acgd-webdev-1/css-validation-fixes"
+    url: "https://github.com/acgd-webdesign-1/css-validation-fixes"
   - type: attend-labs
   - type: watch-videos
 ---

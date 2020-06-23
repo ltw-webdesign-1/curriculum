@@ -33,7 +33,7 @@ tasks:
     button: activity
     disabled: true
   - title: "Stylish beets"
-    url: "https://github.com/acgd-webdev-1/stylish-beets"
+    url: "https://github.com/acgd-webdesign-1/stylish-beets"
   - title: "Code your type"
     url: "https://github.com/acgd-webdesign-1/code-your-type"
     disabled: true
