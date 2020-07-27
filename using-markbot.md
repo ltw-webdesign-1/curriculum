@@ -23,7 +23,7 @@ steps:
 
       The repository contains a `.markbot.yml` hidden file used to check and submit your code—running it through a battery of tests like checking commits, checking naming conventions, validation, indentation and more.
 
-      ### [Go to this repository and press the “Fork” button ➔](https://github.com/acgd-webdev-1/using-markbot)
+      ### [Go to this repository and press the “Fork” button ➔](https://github.com/acgd-webdesign-1/using-markbot)
 
       Forking makes a copy of the repository, in your account, that you can edit.
 

@@ -25,24 +25,22 @@ group_activities:
 
 tasks:
   - title: "Verbalizing code"
-    # Show how to verbalize code & how to speak it out loud, with a template
-    # Have a practice box at the bottom they can attempt to read out loud
+    # @TODO: Record speaking videos
     url: verbalizing-code
     type: lesson
     submit: "Nothing. Just practice."
     graded-as: false
     disabled: true
   - title: "Content to code"
-    # Given pure content, write HTML tags & groupings — not actual code
     url: "https://github.com/acgd-webdesign-1/content-to-code"
-    submit: show
+    type: fork
+    submit: gh-issue
     button: activity
-    disabled: true
   - title: "Layout to code"
-    # Given a layout image, write HTML tags & groupings — not actual code
-    # Submit as video of them describing the code & tags?
+    # @TODO: Record example audio file
     url: "https://github.com/acgd-webdesign-1/layout-to-code"
-    submit: show
+    type: fork
+    submit: gh-issue
     button: activity
     disabled: true
   - type: attend-labs

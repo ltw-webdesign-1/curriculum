@@ -32,7 +32,7 @@ tasks:
     type: lesson
     disabled: true
   - title: "Arrrgene’s treasure tours"
-    url: "https://github.com/acgd-webdev-2/arrrgenes-treasure-tours"
+    url: "https://github.com/acgd-webdesign-2/arrrgenes-treasure-tours"
   - type: attend-labs
   - type: watch-videos
 ---
