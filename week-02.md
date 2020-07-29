@@ -7,7 +7,6 @@ video_tutorials:
   - title: "Computer shortcuts"
     url: computer-shortcuts
     videos: true
-    disabled: true
   - title: "Using URLs"
     url: using-urls
     videos: true
