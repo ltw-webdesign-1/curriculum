@@ -14,7 +14,6 @@ video_tutorials:
     url: accessibility-cheat-sheet
   - title: "Screen reader cheat sheet"
     url: screen-reader-cheat-sheet
-    disabled: true
   - title: "HTML semantics checklist"
     url: html-semantics-checklist
 

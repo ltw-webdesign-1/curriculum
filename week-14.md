@@ -12,7 +12,6 @@ video_tutorials:
     url: accessibility-cheat-sheet
   - title: "Screen reader cheat sheet"
     url: screen-reader-cheat-sheet
-    disabled: true
   - title: "CSS Grid cheat sheet"
     url: css-grid-cheat-sheet
   - title: "Flexbox cheat sheet"
