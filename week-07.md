@@ -18,18 +18,14 @@ video_tutorials:
     url: html-semantics-checklist
 
 slides:
-  - title: "Sitemaps & content maps"
-    # Using & creating sitemaps, and greyscale content importance maps
-    url: sitemaps-content-maps
-    disabled: true
+  - title: "Sitemaps & content prioritization"
+    url: sitemaps-content-prioritization
 
 group_activities:
-  - title: "Content: working backwards"
-    # Given a site, work together to generate the sitemap & content map
-    url: content-working-backwards
+  - title: "Sitemap: working backwards"
+    url: sitemap-working-backwards
     type: pencil
     pair: true
-    disabled: true
 
 tasks:
   - type: blank
