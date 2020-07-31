@@ -10,6 +10,28 @@ slides:
     notes: |
       Totally ripping the title off from [IA: Web design is 95% typography](https://ia.net/topics/the-web-is-all-about-typography-period)
 
+  - content: |
+      ## Text is everywhere
+
+      - So much of our interfaces are text label
+      - Text is extremely accessible
+      - Content is exceptionally important
+
+  - content: |
+      ## Typography
+
+      *Readability on the web is critical*
+
+      - Looser line-height than print
+      - Similar line-length to print
+      - Lots of breaks: headings, lists, highlights
+      - Colour contrast between text & background
+
+  - content: |
+      ## CSS controls typography
+
+      **CSS gives us lots and lots of control over typography—and it’s always getting better.**
+
   - type: code
     css: |
       h1 {

@@ -23,20 +23,19 @@ video_tutorials:
 slides:
   - title: "Web design is 95% typography"
     url: web-design-is-95-typography
-    disabled: true
 
 tasks:
   - title: "Speak the look"
-    url: speak-the-look
-    type: basic
-    submit: show
+    # @TODO Make an audio recording of myself reading CSS
+    url: "https://github.com/acgd-webdesign-1/speak-the-look"
+    type: fork
+    submit: gh-issue
     button: activity
     disabled: true
   - title: "Stylish beets"
     url: "https://github.com/acgd-webdesign-1/stylish-beets"
-  - title: "Code your type"
-    url: "https://github.com/acgd-webdesign-1/code-your-type"
-    disabled: true
+  - title: "Dealing with whitespace"
+    url: "https://github.com/acgd-webdesign-1/dealing-with-whitespace"
   - type: attend-labs
   - type: watch-videos
 ---
