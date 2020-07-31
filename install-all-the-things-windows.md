@@ -10,7 +10,7 @@ important:
   text: |
     If you have a MacOS-based computer jump to the correct lesson.
 
-    [**☛ Go to the MacOS installation tutorial.**](/courses/web-dev-1/install-all-the-things/)
+    [**☛ Go to the MacOS installation tutorial.**](/courses/web-design-1/install-all-the-things/)
 
 steps:
   - title: "Configure File Explorer"
