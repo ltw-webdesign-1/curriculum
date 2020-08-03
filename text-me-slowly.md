@@ -11,24 +11,34 @@ slides:
       **Text me slowly**
 
   - content: |
-      ## Thinking in text
+      ## What & why
 
-      *How should interfaces be described with only text, like a computer or a screen reader interperets?*
+      When learning about accessibility & HTML semantics it’s difficult to understand what’s helpful.
 
-      - What should be described?
-      - What order should the information be described?
-      - Are there elements that have functionality?
-      - Are there repeated patterns?
+      By practicing defining an interface through text & speech we can more clearly understand what’s helpful.
+
+      **Text is one of the most important accessibility tools—with some practice we can help everybody use our website.**
 
   - content: |
       ## Set up
 
       1. Form into pairs
-      2. Get out a pencil and a piece of paper
-      3. We’ll do each ativivity one-by-one and discuss the results
+      2. Get out a pencil and a piece of paper or do it digitally
+      3. We’ll do each activity one-by-one and discuss the results
         <br>*Volunteers can even read their solutions out in robot voices!*
 
       **Don’t look ahead the answers are within!**
+
+  - content: |
+      ## Instructions
+
+      *Describe each interface with only text, like a computer or a screen reader.*
+
+      - What should be described?
+      - What order should the information be described?
+      - Are there elements that have functionality?
+      - Are there repeated patterns?
+      - What should be read for a person to interact properly?
 
   - type: figure
     image: flamingos.jpg

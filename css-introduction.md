@@ -123,6 +123,31 @@ slides:
         font-family: Georgia, serif;
       }
 
+  - type: code-n-image
+    notes: |
+      Browser’s have a few different layout width calculation models. The default is called `content-box` and the one we’re **always** going to use is called `border-box`. When making responsive websites `border-box` simplifies the math.
+
+      With the default `content-box` if we specify a `width` the actual layout width is not what we specify but the sum of the `width` + `padding` + `border` so our layouts become cumbersome because we always have to make mathematical choices.
+
+      With `border-box` the `width` we define is the final `width`: `border` and `padding` are inside what we define, making the math inconsequential.
+    image: border-box.svg
+    css: |
+      /*
+        Reset the layout math:
+        - the padding is inside the width
+        - friendlier for flexible layouts
+
+        Put this at the top of EVERY CSS file
+      */
+
+      html {
+        box-sizing: border-box;
+      }
+
+      *, *::before, *::after {
+        box-sizing: inherit;
+      }
+
   - content: |
       ## Videos & tutorials
 

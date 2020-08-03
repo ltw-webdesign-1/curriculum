@@ -10,19 +10,32 @@ slides:
     content: |
       **Semantics map-out**
 
-  - type: big-text
-    content: |
+  - content: |
+      ## What & why
+
+      When learning to write HTML, you have to start thinking about content differently—about its purpose and meaning.
+
+      Using some pre-written content we’ll go through, learn & discuss how & why choose HTML tags.
+
+      **With some practice, and some memorization, we can grasp what content HTML describes.**
+
+  - content: |
       ## Set up
 
       1. Form into pairs
       2. [Download the files](https://github.com/acgd-webdesign-1/semantics-map-out/archive/master.zip)
-      3. Print “content.pdf”
-      4. Get out a pencil for marking up the paper
+      3. Print “content.pdf” and draw on the paper
+        <br>Or do the whole thing digitally
 
-      **Don’t look ahead—the answers are in here!**
+  - content: |
+      ## Instructions
 
-  - type: big-text
-    content: |
+      1. You’ll be shown some HTML tags & their purposes
+      2. Find content that’s appropriate for those tags
+      3. Mark that content with the tag name
+        <br>*You don’t need to write full HTML or even tags—just the tag names—something as simple as `h1`*
+
+  - content: |
       ## 1 Content elements
 
       - Heading
@@ -30,11 +43,12 @@ slides:
       - Image
       - Paragraph
 
+      *Not actually tags. But let’s start with grouping content types.*
+
   - type: image
     image: content.jpg
 
-  - type: big-text
-    content: |
+  - content: |
       ## 2 Heading elements
 
       *Each number denotes a sub-heading of the heading above.*
@@ -44,8 +58,7 @@ slides:
   - type: image
     image: headings.jpg
 
-  - type: big-text
-    content: |
+  - content: |
       ## 3 List elements
 
       `<ul>` — Unordered list
@@ -61,8 +74,7 @@ slides:
   - type: image
     image: lists.jpg
 
-  - type: big-text
-    content: |
+  - content: |
       ## 4 Image elements
 
       `<img>`
@@ -77,8 +89,7 @@ slides:
   - type: image
     image: images.jpg
 
-  - type: big-text
-    content: |
+  - content: |
       ## 5 Quote elements
 
       `<q>` — Small quotes inside other text
@@ -90,8 +101,7 @@ slides:
   - type: image
     image: quotes.jpg
 
-  - type: big-text
-    content: |
+  - content: |
       ## 6 Text level elements
 
       `<em>` — Emphasis
@@ -105,8 +115,7 @@ slides:
   - type: image
     image: text-level.jpg
 
-  - type: big-text
-    content: |
+  - content: |
       ## 7 Link elements
 
       `<a>` — A clickable hyperlink
@@ -114,8 +123,7 @@ slides:
   - type: image
     image: links.jpg
 
-  - type: big-text
-    content: |
+  - content: |
       ## 8 Document elements
 
       `<header>` — The most important information
@@ -128,8 +136,7 @@ slides:
   - type: image
     image: document.jpg
 
-  - type: big-text
-    content: |
+  - content: |
       ## 9 Extra elements
 
       `<data>` — Some numerical, computer information

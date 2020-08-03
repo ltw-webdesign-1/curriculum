@@ -35,13 +35,15 @@ tasks:
     url: "https://github.com/acgd-webdesign-1/content-to-code"
     type: fork
     submit: gh-issue
-    button: activity
+    icon: pencil
+    button: print
   - title: "Layout to code"
     # @TODO: Record example audio file
     url: "https://github.com/acgd-webdesign-1/layout-to-code"
     type: fork
     submit: gh-issue
-    button: activity
+    icon: pencil
+    button: print
     disabled: true
   - type: attend-labs
   - type: watch-videos

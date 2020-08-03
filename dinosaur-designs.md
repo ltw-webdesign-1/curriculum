@@ -110,9 +110,14 @@ steps:
     code_lang: 'css'
     code: |
       html {
+        box-sizing: border-box;
         background-color: #f2f1ed;
         font-family: Georgia, serif;
         line-height: 1.5;
+      }
+
+      *, *::before, *::after {
+        box-sizing: inherit;
       }
     lines:
       - num: 1
@@ -120,18 +125,24 @@ steps:
           Target the whole page—since the `html` element surrounds everything we can use it to style the whole visible space
       - num: 2
         text: |
-          Change the background colour  of the whole page to `#f2f1ed`
+          Remember: this changes the whole layout math system—it’s super critical.
       - num: 3
         text: |
-          Change the text on the whole page to `Georgia` with a backup font of `serif`
+          Change the background colour  of the whole page to `#f2f1ed`
       - num: 4
+        text: |
+          Change the text on the whole page to `Georgia` with a backup font of `serif`
+      - num: 5
         text: |
           Set the `line-height` of the whole page to `1.5`—this is a nice line-height for the web, a little loose but makes the text very readable.
 
           We should do this every time we start a new website.
-      - num: 5
+      - num: 6
         text: |
           Don’t forget to close this chunk of CSS with a closing curly brace.
+      - num: "8-10"
+        text: |
+          Remember: this changes the whole layout math system—it’s super critical.
     after: |
       Now open the `index.html` in your browser and make the window narrower than normal.
 
@@ -201,7 +212,7 @@ steps:
     code_lang: 'css'
     code: |
       ⋮
-        line-height: 1.5;
+        box-sizing: inherit;
       }
 
       img {

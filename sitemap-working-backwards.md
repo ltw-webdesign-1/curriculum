@@ -19,12 +19,18 @@ slides:
 
       **With some practice, we can pre-plan sitemaps for websites that don’t yet exist.**
 
-  - type: big-text
-    content: |
+  - content: |
       ## Set up
 
       1. Form into pairs
-      2. [Navigate to StarWars.com](https://www.starwars.com/)
-      3. Get out a pencil & some paper
-      4. Sketch out a sitemap for the whole website
+      1. Get out a pencil & some paper (or do it digitally)
+
+  - content: |
+      ## Instructions
+
+      1. [Navigate to StarWars.com](https://www.starwars.com/)
+      2. Click through the pages and get an understanding of how things are connected
+      3. Draw a sitemap that shows how the website is connected
+
+      **There are lots of pages on this website—you can’t express them all in your sitemap.** *Try to group & categorize the pages & navigation.*
 ---

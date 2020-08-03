@@ -27,7 +27,6 @@ video_tutorials:
 slides:
   - title: "Grid for layouts"
     url: grid-for-layouts
-    disabled: true
 
 group_activities:
   - title: "Sketching a website"
@@ -43,15 +42,13 @@ tasks:
     type: lesson
     no-solution: true
   - title: "No sketch, no grid"
-    # Given a layout, determine the CSS grid & write it down
     url: "https://github.com/acgd-webdesign-1/no-sketch-no-grid"
-    type: paper
-    disabled: true
+    type: fork
+    submit: gh-issue
+    icon: pencil
+    button: print
   - title: "Type those grids"
-    # Using grids to layout lots of typography text: multiple columns, header, etc.
-    # Include a banner with overlapping elements
     url: "https://github.com/acgd-webdesign-1/type-those-grids"
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

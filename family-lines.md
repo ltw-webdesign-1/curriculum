@@ -24,9 +24,9 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdesign-1/family-ties/archive/master.zip)
-      3. Print “family-ties.pdf”
-      4. Get out a pencil for marking up the paper
+      2. [Download the files](https://github.com/acgd-webdesign-1/family-lines/archive/master.zip)
+      3. Print “family-lines.pdf” and draw on the paper
+        <br>Or do the whole thing digitally
 
   - type: big-text
     content: |
@@ -34,6 +34,8 @@ slides:
 
       1. Draw lines to match the opening & closing tags
       2. Answer questions about family relationships
+
+      *(Example on the next screen.)*
 
   - type: big-text
     content: |

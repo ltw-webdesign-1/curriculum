@@ -21,8 +21,6 @@ video_tutorials:
     highlight: true
   - title: "Code editors"
     url: code-editors
-  - title: "Code character cheat sheet"
-    url: code-character-cheat-sheet
 
 slides:
   - title: "The Open Web"
