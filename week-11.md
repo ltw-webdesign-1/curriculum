@@ -4,9 +4,6 @@ desc: "Learn to design webpages using grids and introduce yourself to the CSS Gr
 clr: "2, 3"
 
 video_tutorials:
-  - title: "Everything is a box"
-    url: box-model
-    videos: true
   - title: "CSS grids"
     url: css-grids
     videos: true
@@ -25,8 +22,8 @@ video_tutorials:
     url: browser-developer-tools
 
 slides:
-  - title: "Grid for layouts"
-    url: grid-for-layouts
+  - title: "Grids for layout"
+    url: grids-for-layout
 
 group_activities:
   - title: "Sketching a website"

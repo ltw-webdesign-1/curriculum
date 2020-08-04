@@ -21,17 +21,16 @@ slides:
     url: flexbox
 
 tasks:
-  - title: "Flexing your muscles"
-    url: flexing-your-muscles
-    type: lesson
-    submit: code
-  - title: "Distributed card"
-    # Creating a card that flexes between vertical & wrapped
-    url: "https://github.com/acgd-webdesign-1/distributed-card"
-    disabled: true
+  - title: "Dev Tool Dynamo"
+    url: "https://activities.learn-the-web.algonquindesign.ca/dev-tool-dynamo/"
+    type: activity
   - title: "Distributed navigation"
     # Create a horizontal navigation with lots of separate pieces
     url: "https://github.com/acgd-webdesign-1/distributed-navigation"
+    disabled: true
+  - title: "Distributed card"
+    # Creating a card that flexes between vertical & wrapped
+    url: "https://github.com/acgd-webdesign-1/distributed-card"
     disabled: true
   - type: attend-labs
   - type: watch-videos

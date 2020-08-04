@@ -7,6 +7,9 @@ video_tutorials:
   - title: "Basic typography"
     url: basic-typography
     videos: true
+  - title: "Everything is a box"
+    url: box-model
+    videos: true
   - title: "CSS selectors & units cheat sheet"
     url: css-selectors-units-cheat-sheet
   - title: "Using Google Fonts"
@@ -17,8 +20,6 @@ video_tutorials:
   - title: "Web typography checklist"
     url: web-typography-checklist
     highlight: true
-  - title: "Validators"
-    url: validator
 
 slides:
   - title: "Web design is 95% typography"
