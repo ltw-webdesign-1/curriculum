@@ -21,14 +21,10 @@ tasks:
   - title: "Specificity Spy"
     url: "https://activities.learn-the-web.algonquindesign.ca/specificity-spy/"
     type: activity
-  - title: "Homely homepage"
-    # Basic homepage grid + flexbox — HTML already written
-    url: "https://github.com/acgd-webdesign-1/homely-homepage"
-    disabled: true
   - title: "Pretty products"
-    # Basic products page with multiple cards rows & columns
-    url: "https://github.com/acgd-webdesign-1/perky-products"
-    disabled: true
+    url: "https://github.com/acgd-webdesign-1/pretty-products"
+  - title: "Stunning start-page"
+    url: "https://github.com/acgd-webdesign-1/stunning-start-page"
   - type: attend-labs
   - type: watch-videos
 ---
