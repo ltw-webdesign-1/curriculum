@@ -2,6 +2,7 @@
 layout: lesson
 title: "Verbalizing code"
 desc: "A quick primer on reading code & learning to speak code—helps with cognition and memory."
+playlist: PLWjCJDeWfDdfEm-CIR9zUtOoD_7Ywgu4I
 
 hide_markbot: true
 hide_show_for_marks: true
@@ -58,10 +59,10 @@ steps:
       Usually you’d announce the attribute immediately after the open tag:
 
       - `<img src="/images/dino.svg"` — “Image tag, source attribute equals slash images slash dino dot S.V.G”
-  - title: "Example code reading"
+  - title: "Example reading HTML content"
     before: |
       Have a listen & watch of me reading out a chunk of HTML code. *Then below you can do some practice.*
-    video: ""
+    video: "IbH14D40KzA"
   - title: "Practice chunks"
     before: |
       Here are a couple blocks of code for you to practice reading. *They have companion spoken versions for you to hear.*
@@ -74,7 +75,7 @@ steps:
             <li>
               <article>
                 <h3>Stegosaurus</h3>
-                <time datetime="4004-04-04">April, 4, 2054</time>
+                <time datetime="2054-04-04">April, 4, 2054</time>
                 <p>These humans are so weird—they were so boring looking without back plates or feathers.</p>
               </article>
             </li>
@@ -82,7 +83,7 @@ steps:
         lines:
           - num: 1
             text: |
-              [Listen to this piece of code being read out.](https://www.youtube.com/)
+              [Listen to this piece of code being read out.](https://www.youtube.com/watch?v=rD9IxqnRkgM&list=PLWjCJDeWfDdfEm-CIR9zUtOoD_7Ywgu4I&index=3&t=0s)
       - code_file: "navigation.html"
         code_before: |
           Here’s another block of code to practic reading.
@@ -109,7 +110,7 @@ steps:
         lines:
           - num: 1
             text: |
-              [Listen to this piece of code being read out.](https://www.youtube.com/)
+              [Listen to this piece of code being read out.](https://www.youtube.com/watch?v=0bfoPRCwmtY&list=PLWjCJDeWfDdfEm-CIR9zUtOoD_7Ywgu4I&index=4&t=0s)
     after: |
       **Keep practicing reading and speaking code.** You’re going to have to record yourself reading code for assignments in the future.
 ---

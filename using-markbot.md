@@ -3,8 +3,7 @@ layout: lesson
 title: "Using Markbot"
 desc: "Use Markbot to check that your code follows all the requirements and submit it for grades when it passes."
 
-# @TODO: Rerecord video
-# video: "Li9RIuDSMFo"
+video: "Li9RIuDSMFo"
 hide_show_for_marks: true
 hide_markbot: true
 
