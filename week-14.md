@@ -7,7 +7,6 @@ video_tutorials:
   - title: "Accessibility for design"
     url: accessibility-for-design
     videos: true
-    disabled: true
   - title: "Accessibility cheat sheet"
     url: accessibility-cheat-sheet
   - title: "Screen reader cheat sheet"
@@ -25,11 +24,7 @@ tasks:
   - title: "Accessibility Atomizer"
     url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
     type: activity
-  - title: "Universal design"
-    # How to test for colour blindness, broken images, missing background colours
-    url: "universal-design"
-    type: lesson
-    disabled: true
+  - type: blank
   - title: "Arrrgene’s treasure tours"
     url: "https://github.com/acgd-webdesign-2/arrrgenes-treasure-tours"
   - type: attend-labs
