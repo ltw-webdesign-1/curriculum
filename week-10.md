@@ -27,7 +27,6 @@ slides:
 
 tasks:
   - title: "Speak the look"
-    # @TODO Make an audio recording of myself reading CSS
     url: "https://github.com/acgd-webdesign-1/speak-the-look"
     type: fork
     submit: gh-issue

@@ -31,7 +31,6 @@ group_activities:
     type: pencil
     pair: true
     no-solution: true
-    # @TODO Add lesson on wireframing, greyscale, content prioritization
 
 tasks:
   - title: "Developer tools"

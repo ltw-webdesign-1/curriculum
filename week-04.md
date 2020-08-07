@@ -25,12 +25,10 @@ group_activities:
 
 tasks:
   - title: "Verbalizing code"
-    # @TODO: Record speaking videos
     url: verbalizing-code
     type: lesson
     submit: "Nothing. Just practice."
     graded-as: false
-    disabled: true
   - title: "Content to code"
     url: "https://github.com/acgd-webdesign-1/content-to-code"
     type: fork
@@ -38,7 +36,6 @@ tasks:
     icon: pencil
     button: print
   - title: "Layout to code"
-    # @TODO: Record example audio file
     url: "https://github.com/acgd-webdesign-1/layout-to-code"
     type: fork
     submit: gh-issue
