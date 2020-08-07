@@ -32,7 +32,7 @@ slides:
   - content: |
       ## Length & justification
 
-      *Always consider the text’s line-lenght & justification.*
+      *Always consider the text’s line-length & justification.*
 
       - Line-length: too long or too short is hard to read
       - Don’t full justify text on The Web—many people find it difficult to read
