@@ -41,7 +41,6 @@ tasks:
     submit: gh-issue
     icon: pencil
     button: print
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

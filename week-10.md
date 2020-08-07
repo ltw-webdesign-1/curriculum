@@ -31,7 +31,6 @@ tasks:
     type: fork
     submit: gh-issue
     button: activity
-    disabled: true
   - title: "Stylish beets"
     url: "https://github.com/acgd-webdesign-1/stylish-beets"
   - title: "Dealing with whitespace"

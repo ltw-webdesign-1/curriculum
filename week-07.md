@@ -7,7 +7,6 @@ video_tutorials:
   - title: "Information architecture"
     url: information-architecture
     videos: true
-    # @TODO record videos for IA
   - title: "Naming & paths cheat sheet"
     url: naming-paths-cheat-sheet
     highlight: true

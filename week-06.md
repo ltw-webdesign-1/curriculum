@@ -5,10 +5,8 @@ clr: "3"
 
 video_tutorials:
   - title: "Content accessibility"
-    # @TODO: Record a few videos & bring some from the current accessibility playlist
     url: content-accessibility
     videos: true
-    disabled: true
   - title: "Accessibility cheat sheet"
     url: accessibility-cheat-sheet
     highlight: true
