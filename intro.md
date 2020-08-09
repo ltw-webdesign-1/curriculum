@@ -7,9 +7,8 @@ slides:
   - type: super-big-text
     content: |
       **Web Design 1**
-
-  - content: |
-      ## Teacher introduction
+    notes: |
+      **Teacher introduction…**
 
       - Personal background
       - Gender pronouns
