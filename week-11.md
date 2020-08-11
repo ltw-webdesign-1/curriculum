@@ -7,11 +7,9 @@ video_tutorials:
   - title: "CSS grids"
     url: css-grids
     videos: true
-    disabled: true
   - title: "CSS grid cheat sheet"
     url: css-grid-cheat-sheet
     highlight: true
-    disabled: true
   - title: "Boxes & borders cheat sheet"
     url: boxes-borders-cheat-sheet
     highlight: true

@@ -62,7 +62,7 @@ steps:
 
       ![](clone.jpg)
 
-      The GitHub Desktop application will pop up and ask you where to save the repository. Put it into your `web-dev` folder—**you don’t have to make a folder specifically for this repo, the app will make it for you.**
+      The GitHub Desktop application will pop up and ask you where to save the repository. Put it into your `web-design` folder—**you don’t have to make a folder specifically for this repo, the app will make it for you.**
 
       ![](desktop-location.jpg)
 

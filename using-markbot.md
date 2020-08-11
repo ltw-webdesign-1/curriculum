@@ -45,7 +45,7 @@ steps:
 
       ![](clone.jpg)
 
-      Make sure to choose your `web-dev` folder as the location—it isn’t easy to move the repository afterwards.
+      Make sure to choose your `web-design` folder as the location—it isn’t easy to move the repository afterwards.
 
       ![](clone-save.jpg)
 

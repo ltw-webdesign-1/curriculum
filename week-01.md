@@ -5,10 +5,8 @@ clr: ""
 
 video_tutorials:
   - title: "Introduction to Learn the Web"
-    # How to use the site, how to find things, what everything does & means
     url: intro-to-learn-the-web
     videos: true
-    disabled: true
   - title: "Keyboard shortcut cheat sheet"
     url: keyboard-shortcut-cheat-sheet
     highlight: true
