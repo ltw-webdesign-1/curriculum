@@ -26,7 +26,7 @@ tasks:
     type: activity
   - type: blank
   - title: "Arrrgene’s treasure tours"
-    url: "https://github.com/acgd-webdesign-2/arrrgenes-treasure-tours"
+    url: "https://github.com/acgd-webdesign-1/arrrgenes-treasure-tours"
   - type: attend-labs
   - type: watch-videos
 ---
