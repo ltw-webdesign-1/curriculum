@@ -8,7 +8,7 @@ tasks:
   - type: blank
   - type: blank
   - title: "College course feedback"
-    url: "https://www.algonquincollege.com/studentfeedback/"
+    url: "/feedback/"
     type: basic
     submit: "Submit feedback form."
     graded-as: false

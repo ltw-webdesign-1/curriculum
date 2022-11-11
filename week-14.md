@@ -22,11 +22,11 @@ slides:
 
 tasks:
   - title: "Accessibility Atomizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
+    url: "https://activities.learntheweb.courses/accessibility-atomizer/"
     type: activity
   - type: blank
   - title: "Arrrgene’s treasure tours"
-    url: "https://github.com/acgd-webdesign-1/arrrgenes-treasure-tours"
+    url: "https://github.com/ltw-webdesign-1/arrrgenes-treasure-tours"
   - type: attend-labs
   - type: watch-videos
 ---

@@ -24,7 +24,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdesign-1/family-lines/archive/master.zip)
+      2. [Download the files](https://github.com/ltw-webdesign-1/family-lines/archive/master.zip)
       3. Print “family-lines.pdf” and draw on the paper
         <br>Or do the whole thing digitally
 

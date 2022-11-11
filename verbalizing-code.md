@@ -19,14 +19,14 @@ steps:
     before: |
       When it comes to HTML, here are a few keywords you should remember when speaking out your code.
 
-      - **Tag** — the primary driver of HTML’s code syntax, a word starting with `<` and ending with `>`, e.g. `<h1>`, `<ul>`, `<article>`
-      - **Open tag** — the part that begins HTML content, starts with `<`, has one or more words, and ends with `>`, e.g. `<p>`, `<div>`, `<time>`
-      - **Close tag** — the part that finalizes the chunk of HTML content, starting with `</`, then *1* word, then `>`, e.g. `</p>`, `</div>`, `</time>`
-      - **Attribute** — extra, meta information, stored inside the open tag—never in the close tag, e.g. `class=""`, `src=""`
+      - **Tag** — the primary driver of HTML’s code syntax, a word starting with `<` and ending with `>`, e.g. `<h1>`, `<ul>`, `<article>`
+      - **Open tag** — the part that begins HTML content, starts with `<`, has one or more words, and ends with `>`, e.g. `<p>`, `<div>`, `<time>`
+      - **Close tag** — the part that finalizes the chunk of HTML content, starting with `</`, then *1* word, then `>`, e.g. `</p>`, `</div>`, `</time>`
+      - **Attribute** — extra, meta information, stored inside the open tag—never in the close tag, e.g. `class=""`, `src=""`
       - **Element** — is a shortform way to say the open tag, its attributes, all the content inside, and the close tag. Some elments only have an open tag, like `<img>`
-      - **Document** — the whole contents of the HTML file, all the code, all the content.
-      - **Head** — the meta information stored within the open & close `<head>` tags.
-      - **Body** — the HTML document’s content, stored between the open & close `<body>` tags.
+      - **Document** — the whole contents of the HTML file, all the code, all the content.
+      - **Head** — the meta information stored within the open & close `<head>` tags.
+      - **Body** — the HTML document’s content, stored between the open & close `<body>` tags.
   - title: "Pronouncing tags"
     before: |
       When pronouncing a tag, read its name and whether it’s an open or close tag:
@@ -36,29 +36,29 @@ steps:
 
       Sometimes it makes sense to expand the tag’s name when reading it:
 
-      - `<img>` — “Image tag”
-      - `<abbr>` — “Abbreviation tag”
+      - `<img>` — “Image tag”
+      - `<abbr>` — “Abbreviation tag”
 
       But I probably wouldn’t expand some tags:
 
-      - `<div>` — I’d say, “Div. tag” instead of “Division tag”
-      - `<ol>` — I’d say, “O.L. tag” instead of “Ordered list tag”
+      - `<div>` — I’d say, “Div. tag” instead of “Division tag”
+      - `<ol>` — I’d say, “O.L. tag” instead of “Ordered list tag”
 
       **Though, when learning, it would be very helpful to read the full tag to help remember.**
   - title: "Pronouncing attributes"
     before: |
       When pronouncing attributes, all you have to say is the attribute name, and maybe “equals”—it’s not really helpful to speak the quotation marks.
 
-      - `class="big"` — “Class equals big”
-      - `datetime="2058-10-28"` — “Date time equals 2058 dash 10 dash 28”
+      - `class="big"` — “Class equals big”
+      - `datetime="2058-10-28"` — “Date time equals 2058 dash 10 dash 28”
 
       Sometimes, like HTML tags, it’s helpful to speak the full word:
 
-      - `src="/images/dino.svg"` — “Source equals slash images slash dino dot S.V.G”
+      - `src="/images/dino.svg"` — “Source equals slash images slash dino dot S.V.G”
 
       Usually you’d announce the attribute immediately after the open tag:
 
-      - `<img src="/images/dino.svg"` — “Image tag, source attribute equals slash images slash dino dot S.V.G”
+      - `<img src="/images/dino.svg"` — “Image tag, source attribute equals slash images slash dino dot S.V.G”
   - title: "Example reading HTML content"
     before: |
       Have a listen & watch of me reading out a chunk of HTML code. *Then below you can do some practice.*

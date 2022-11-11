@@ -19,12 +19,12 @@ video_tutorials:
 
 tasks:
   - title: "Specificity Spy"
-    url: "https://activities.learn-the-web.algonquindesign.ca/specificity-spy/"
+    url: "https://activities.learntheweb.courses/specificity-spy/"
     type: activity
   - title: "Pretty products"
-    url: "https://github.com/acgd-webdesign-1/pretty-products"
+    url: "https://github.com/ltw-webdesign-1/pretty-products"
   - title: "Stunning start-page"
-    url: "https://github.com/acgd-webdesign-1/stunning-start-page"
+    url: "https://github.com/ltw-webdesign-1/stunning-start-page"
   - type: attend-labs
   - type: watch-videos
 ---

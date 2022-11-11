@@ -27,14 +27,14 @@ slides:
 
 tasks:
   - title: "Speak the look"
-    url: "https://github.com/acgd-webdesign-1/speak-the-look"
+    url: "https://github.com/ltw-webdesign-1/speak-the-look"
     type: fork
     submit: gh-issue
     button: activity
   - title: "Stylish beets"
-    url: "https://github.com/acgd-webdesign-1/stylish-beets"
+    url: "https://github.com/ltw-webdesign-1/stylish-beets"
   - title: "Dealing with whitespace"
-    url: "https://github.com/acgd-webdesign-1/dealing-with-whitespace"
+    url: "https://github.com/ltw-webdesign-1/dealing-with-whitespace"
   - type: attend-labs
   - type: watch-videos
 ---

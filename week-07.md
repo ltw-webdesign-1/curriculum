@@ -32,13 +32,13 @@ group_activities:
 tasks:
   - type: blank
   - title: "Plan a website"
-    url: "https://github.com/acgd-webdesign-1/plan-a-website"
+    url: "https://github.com/ltw-webdesign-1/plan-a-website"
     type: fork
     submit: gh-issue
     icon: pencil
     button: print
   - title: "Code a website"
-    url: "https://github.com/acgd-webdesign-1/code-a-website"
+    url: "https://github.com/ltw-webdesign-1/code-a-website"
   - type: attend-labs
   - type: watch-videos
 ---

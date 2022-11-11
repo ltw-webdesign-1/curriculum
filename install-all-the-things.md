@@ -171,7 +171,7 @@ steps:
     before: |
       All of the coding exercises we do in this class will be using Markbot to automatically grade your work. So, we need to set that up.
 
-      1. Download [Markbot](https://assets.learn-the-web.algonquindesign.ca/markbot/Install%20Markbot.dmg). (*or [Markbot for Windows](https://assets.learn-the-web.algonquindesign.ca/markbot/Markbot%20Setup.exe)*)
+      1. Download [Markbot](https://assets.learntheweb.courses/markbot/Install%20Markbot.dmg). (*or [Markbot for Windows](https://assets.learntheweb.courses/markbot/Markbot%20Setup.exe)*)
       2. Mount the disk image by double clicking.
       3. Drag the application to your “Applications” folder.
       4. Eject the mounted disk from your computer.

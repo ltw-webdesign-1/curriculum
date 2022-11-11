@@ -170,5 +170,5 @@ steps:
         text: "Delete this line."
 
 quiz:
-  url: "https://activities.learn-the-web.algonquindesign.ca/using-your-code-editor/"
+  url: "https://activities.learntheweb.courses/using-your-code-editor/"
 ---

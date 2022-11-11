@@ -65,9 +65,9 @@ slides:
     notes: |
       Using different shades of grey & black as backgrouns help prioritize page content.
 
-      - black — the most important
-      - grey — darker = more important, lighter = less important
-      - white — the least important
+      - black — the most important
+      - grey — darker = more important, lighter = less important
+      - white — the least important
     caption: "Darker grey is more important. You could use numbers too."
 
   - content: |

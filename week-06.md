@@ -32,9 +32,9 @@ group_activities:
 tasks:
   - type: blank
   - title: "HTML validation fixes"
-    url: "https://github.com/acgd-webdesign-1/html-validation-fixes"
+    url: "https://github.com/ltw-webdesign-1/html-validation-fixes"
   - title: "Accessible content for all"
-    url: "https://github.com/acgd-webdesign-1/accessible-content-for-all"
+    url: "https://github.com/ltw-webdesign-1/accessible-content-for-all"
   - type: attend-labs
   - type: watch-videos
 ---

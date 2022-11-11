@@ -16,7 +16,7 @@ tasks:
     submit: "Submit feedback form."
     graded-as: false
   - title: "Continue assignments"
-    url: "https://github.com/acgd-webdesign-shared/continue-assignments"
+    url: "https://github.com/ltw-webdesign-shared/continue-assignments"
     submit: "Submit nothing new."
     graded-as: false
   - type: watch-videos

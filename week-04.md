@@ -30,13 +30,13 @@ tasks:
     submit: "Nothing. Just practice."
     graded-as: false
   - title: "Content to code"
-    url: "https://github.com/acgd-webdesign-1/content-to-code"
+    url: "https://github.com/ltw-webdesign-1/content-to-code"
     type: fork
     submit: gh-issue
     icon: pencil
     button: print
   - title: "Layout to code"
-    url: "https://github.com/acgd-webdesign-1/layout-to-code"
+    url: "https://github.com/ltw-webdesign-1/layout-to-code"
     type: fork
     submit: gh-issue
     icon: pencil

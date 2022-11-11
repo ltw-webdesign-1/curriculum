@@ -23,7 +23,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdesign-1/semantics-map-out/archive/master.zip)
+      2. [Download the files](https://github.com/ltw-webdesign-1/semantics-map-out/archive/master.zip)
       3. Print “content.pdf” and draw on the paper
         <br>Or do the whole thing digitally
 
@@ -61,13 +61,13 @@ slides:
   - content: |
       ## 3 List elements
 
-      `<ul>` — Unordered list
-      <br>`  <li>` — Each individual item inside
+      `<ul>` — Unordered list
+      <br>`  <li>` — Each individual item inside
 
-      `<ol>` — Ordered list
-      <br>`  <li>` — Each individual item inside
+      `<ol>` — Ordered list
+      <br>`  <li>` — Each individual item inside
 
-      `<dl>` — Description list
+      `<dl>` — Description list
       <br>`  <dt>` — The item title
       <br>`  <dd>` — The item description
 
@@ -78,13 +78,13 @@ slides:
       ## 4 Image elements
 
       `<img>`
-      <br>— A visual image
+      <br>— A visual image
 
       `<figure>`
       <br>— An image with a caption, wraps an image
 
       `<figcaption>`
-      <br>— The descriptive text inside a figure
+      <br>— The descriptive text inside a figure
 
   - type: image
     image: images.jpg
@@ -96,7 +96,7 @@ slides:
 
       `<blockquote>` — Large, stand-alone quotes
 
-      `<cite>` — The source of the quote
+      `<cite>` — The source of the quote
 
   - type: image
     image: quotes.jpg
@@ -104,11 +104,11 @@ slides:
   - content: |
       ## 6 Text level elements
 
-      `<em>` — Emphasis
+      `<em>` — Emphasis
 
-      `<strong>` — Lots of emphasis
+      `<strong>` — Lots of emphasis
 
-      `<b>` — A keyword
+      `<b>` — A keyword
 
       `<i>` — Another language, technical term, title
 
@@ -118,7 +118,7 @@ slides:
   - content: |
       ## 7 Link elements
 
-      `<a>` — A clickable hyperlink
+      `<a>` — A clickable hyperlink
 
   - type: image
     image: links.jpg
@@ -126,12 +126,12 @@ slides:
   - content: |
       ## 8 Document elements
 
-      `<header>` — The most important information
-      <br>`<nav>` — The navigation for the page
-      <br>`<main>` — The primary content
+      `<header>` — The most important information
+      <br>`<nav>` — The navigation for the page
+      <br>`<main>` — The primary content
       <br>`<article>` — A chunk of unique content
       <br>`<aside>` — Secondary information
-      <br>`<footer>` — The least important information
+      <br>`<footer>` — The least important information
 
   - type: image
     image: document.jpg
@@ -139,9 +139,9 @@ slides:
   - content: |
       ## 9 Extra elements
 
-      `<data>` — Some numerical, computer information
+      `<data>` — Some numerical, computer information
 
-      `<time>` — A date or time
+      `<time>` — A date or time
 
       `<small>` — Fine print, copyright notice
 

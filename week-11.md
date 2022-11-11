@@ -36,13 +36,13 @@ tasks:
     type: lesson
     no-solution: true
   - title: "No sketch, no grid"
-    url: "https://github.com/acgd-webdesign-1/no-sketch-no-grid"
+    url: "https://github.com/ltw-webdesign-1/no-sketch-no-grid"
     type: fork
     submit: gh-issue
     icon: pencil
     button: print
   - title: "Type those grids"
-    url: "https://github.com/acgd-webdesign-1/type-those-grids"
+    url: "https://github.com/ltw-webdesign-1/type-those-grids"
   - type: attend-labs
   - type: watch-videos
 ---

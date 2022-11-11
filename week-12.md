@@ -22,12 +22,12 @@ slides:
 
 tasks:
   - title: "Dev Tool Dynamo"
-    url: "https://activities.learn-the-web.algonquindesign.ca/dev-tool-dynamo/"
+    url: "https://activities.learntheweb.courses/dev-tool-dynamo/"
     type: activity
   - title: "Distributed navigation"
-    url: "https://github.com/acgd-webdesign-1/distributed-navigation"
+    url: "https://github.com/ltw-webdesign-1/distributed-navigation"
   - title: "Distributed cards"
-    url: "https://github.com/acgd-webdesign-1/distributed-cards"
+    url: "https://github.com/ltw-webdesign-1/distributed-cards"
   - type: attend-labs
   - type: watch-videos
 ---

@@ -31,9 +31,9 @@ tasks:
     type: lesson
     submit: code
   - title: "Content semantics"
-    url: "https://github.com/acgd-webdesign-1/content-semantics"
+    url: "https://github.com/ltw-webdesign-1/content-semantics"
   - title: "Masthead semantics"
-    url: "https://github.com/acgd-webdesign-1/masthead-semantics"
+    url: "https://github.com/ltw-webdesign-1/masthead-semantics"
   - type: attend-labs
   - type: watch-videos
 ---

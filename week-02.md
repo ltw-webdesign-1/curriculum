@@ -30,14 +30,14 @@ slides:
 
 tasks:
   - title: "Keyboard Commander"
-    url: "https://activities.learn-the-web.algonquindesign.ca/keyboard-commander/"
+    url: "https://activities.learntheweb.courses/keyboard-commander/"
     type: activity
   - title: "Using your code editor"
     url: using-your-code-editor
     type: lesson
     submit: code
   - title: "Making files & folders"
-    url: "https://github.com/acgd-webdesign-1/making-files-folders"
+    url: "https://github.com/ltw-webdesign-1/making-files-folders"
     submit: show
     button: activity
   - type: attend-labs

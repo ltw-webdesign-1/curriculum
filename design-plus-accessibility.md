@@ -25,9 +25,9 @@ slides:
     notes: |
       In Firefox, go to the menu: `View > Zoom` & enable `Zoom Text Only`
 
-      - `⌘+` — Increases font size
-      - `⌘-` — Decreases font size
-      - `⌘0` — Sets the default font size
+      - `⌘+` — Increases font size
+      - `⌘-` — Decreases font size
+      - `⌘0` — Sets the default font size
 
   - content: |
       ## Length & justification
