@@ -2,7 +2,7 @@
 layout: lesson
 title: "Verbalizing code"
 desc: "A quick primer on reading code & learning to speak code—helps with cognition and memory."
-playlist: PLWjCJDeWfDdfEm-CIR9zUtOoD_7Ywgu4I
+playlist: verbalizing-code
 
 hide_markbot: true
 hide_show_for_marks: true
@@ -15,6 +15,7 @@ steps:
       *We need to be able to read the code to better understand what it’s try to accomplish.*
 
       Learning to read our code correctly can help our brains understand how to apply the code—and especially help us remember the code.
+
   - title: "Glossary"
     before: |
       When it comes to HTML, here are a few keywords you should remember when speaking out your code.
@@ -27,6 +28,7 @@ steps:
       - **Document** — the whole contents of the HTML file, all the code, all the content.
       - **Head** — the meta information stored within the open & close `<head>` tags.
       - **Body** — the HTML document’s content, stored between the open & close `<body>` tags.
+
   - title: "Pronouncing tags"
     before: |
       When pronouncing a tag, read its name and whether it’s an open or close tag:
@@ -45,6 +47,7 @@ steps:
       - `<ol>` — I’d say, “O.L. tag” instead of “Ordered list tag”
 
       **Though, when learning, it would be very helpful to read the full tag to help remember.**
+
   - title: "Pronouncing attributes"
     before: |
       When pronouncing attributes, all you have to say is the attribute name, and maybe “equals”—it’s not really helpful to speak the quotation marks.
@@ -59,10 +62,12 @@ steps:
       Usually you’d announce the attribute immediately after the open tag:
 
       - `<img src="/images/dino.svg"` — “Image tag, source attribute equals slash images slash dino dot S.V.G”
+
   - title: "Example reading HTML content"
     before: |
       Have a listen & watch of me reading out a chunk of HTML code. *Then below you can do some practice.*
-    video: "IbH14D40KzA"
+    video: "https://videos.learntheweb.courses/playlists/verbalizing-code/1-example-html.mp4"
+
   - title: "Practice chunks"
     before: |
       Here are a couple blocks of code for you to practice reading. *They have companion spoken versions for you to hear.*
