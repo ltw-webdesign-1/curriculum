@@ -11,7 +11,7 @@ tasks:
   - type: blank
   - type: blank
   - title: "Mid-course feedback"
-    url: "/feedback/"
+    url: "/feedback"
     type: basic
     submit: "Submit feedback form."
     graded-as: false
